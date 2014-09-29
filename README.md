@@ -1,9 +1,7 @@
-mirrors
-=======
-
-* molihua.org mirror: http://a248.e.akamai.net/f/248/313032/5d/jindouyun.co/zby
-
-
+免翻墙镜像（可直接在墙内访问，如同访问新浪、搜狐）
+<table>
+    <thead>
+        <tr>
             <th>网站</th>
             <th>免翻墙镜像</th>
         </tr>
