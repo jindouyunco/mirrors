@@ -10,13 +10,13 @@
         <tr>
             <td>中国茉莉花革命网站</td>
             <td>            
-                <a href="http://a248.e.akamai.net/f/248/313032/5d/jindouyun.co/zby" target="_BLANK">长期有效</a>，            
+                <a href="http://a248.e.akamai.net/f/248/313032/5d/jindouyun.co/zby" target="_BLANK">长期有效</a>            
             </td>
         </tr>    
         <tr>
             <td>有待更新</td>
             <td>            
-                <a href="http://a248.e.akamai.net/f/248/313032/5d/jindouyun.co/zby" target="_BLANK">有待更新</a>，            
+                有待更新            
             </td>
         </tr>    
     </tbody>
