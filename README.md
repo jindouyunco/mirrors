@@ -10,7 +10,7 @@
         <tr>
             <td>中国茉莉花革命网站</td>
             <td>            
-                <a href="http://a248.e.akamai.net/f/248/313032/5d/jindouyun.co/zby" target="_BLANK">长期有效</a>            
+                <a href="https://ssl2.cdngc.net/cdn1.cfmc.co/zby" target="_BLANK">长期有效</a>            
             </td>
         </tr>    
         <tr>
