@@ -10,13 +10,13 @@
         <tr>
             <td>中国茉莉花革命网站</td>
             <td>            
-                <a href="https://ssl2.cdngc.net/cdn1.cfmc.co/zby" target="_BLANK">长期有效</a>            
+                https://ssl2.cdngc.net/cdn1.cfmc.co/zby
             </td>
         </tr>    
         <tr>
             <td>有待更新</td>
             <td>            
-                有待更新            
+                有待更新
             </td>
         </tr>    
     </tbody>
