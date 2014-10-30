@@ -10,7 +10,7 @@
         <tr>
             <td>中国茉莉花革命网站</td>
             <td>            
-                https://ssl2.cdngc.net/cdn1.cfmc.co/zby
+                有待更新
             </td>
         </tr>    
         <tr>
