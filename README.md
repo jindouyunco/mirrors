@@ -8,9 +8,9 @@
     </thead>
     <tbody>    
         <tr>
-            <td>中国茉莉花革命网站</td>
+            <td>中国民主党全国联合总部--首 页</td>
             <td>            
-                有待更新
+                <a href="https://cdp.global.ssl.fastly.net/">https://cdp.global.ssl.fastly.net/</a>
             </td>
         </tr>    
         <tr>
