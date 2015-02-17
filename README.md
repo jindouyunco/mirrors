@@ -9,7 +9,7 @@
     </thead>
     <tbody>    
         <tr>
-            <td>中国民主党全国联合总部</td>
+            <td>中国民主党全委会美国委员会</td>
             <td>            
                 <a href="https://cdp.global.ssl.fastly.net/">https://cdp.global.ssl.fastly.net</a>
             </td>
