@@ -24,7 +24,7 @@
         <tr>
             <td>北京之春</td>
             <td>            
-                <a href="https://bjs0.global.ssl.fastly.net/bj2">https://bjs0.global.ssl.fastly.net/bj2</a>
+                <a href="https://bjs0.global.ssl.fastly.net/bj2/">https://bjs0.global.ssl.fastly.net/bj2/</a>
             </td>
         </tr>
         <tr>
