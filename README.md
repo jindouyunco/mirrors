@@ -22,6 +22,12 @@
             </td>
         </tr>
         <tr>
+            <td>北京之春</td>
+            <td>            
+                <a href="https://bjs0.global.ssl.fastly.net/">https://bjs0.global.ssl.fastly.net</a>
+            </td>
+        </tr>
+        <tr>
             <td>有待更新</td>
             <td>            
                 有待更新
