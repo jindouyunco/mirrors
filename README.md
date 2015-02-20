@@ -1,6 +1,11 @@
 <a name="a" id="a"></a>
 <h3>免翻墙镜像（可直接在墙内访问，如同访问新浪、搜狐）</h3>
 
+
+本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
+
+联系: jindouyun.co@gmail.com
+
 <table>
     <thead>
         <tr>
@@ -37,7 +42,3 @@
 </table>
 <br/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpdvxCD6PqBufA5U_Ftoyn1JuvtgBjTRl3OpujvkqxKmPakPf" />
-
-本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。
-
-联系: jindouyun.co@gmail.com
