@@ -9,7 +9,7 @@
 
   <br>
 
-  联系: jindouyun.co@gmail.com
+  联系: <a href="mailto:jindouyun.co@gmail.com">jindouyun.co@gmail.com</a>
 </p>
 
 <br>
