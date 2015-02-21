@@ -1,14 +1,14 @@
 <a name="a" id="a"></a>
-<h3 align="center">免翻墙镜像（可直接在墙内访问，如同访问新浪、搜狐）</h3>
+<h3 align="center">免翻墙镜像</h3>
 
 
-<p align="center">本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。</p>
+<p align="center">本页面收集了墙内镜像。可直接在墙内访问，如同访问新浪、搜狐。</p>
+
+<p align="center"><b>请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。</b></p>
 
 <p align="center">
   分享此页: <a href="mailto:?subject=%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F&body=https%3A%2F%2Fgithub.com%2Fjindouyunco%2Fmirrors%23a"><sub><img alt="分享" src="http://mat1.gtimg.com/www/images/qq2012/mailIcon.png"></sub></a>
-
   <br>
-
   联系: <a href="mailto:jindouyun.co@gmail.com">jindouyun.co@gmail.com</a>
 </p>
 
