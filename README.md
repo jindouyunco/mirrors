@@ -35,8 +35,8 @@
         </tr>
         <tr>
             <td>北京之春</td>
-            <td><a href="https://bjs.global.ssl.fastly.net/bj2/">https://bjs.global.ssl.fastly.net/bj2/</a></td>
-            <td><a href="mailto:?subject=%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5%20%7C%20%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F&body=https%3A%2F%2Fgithub.com%2Fjindouyunco%2Fmirrors%23a%0Ahttps%3A%2F%2Fbjs.global.ssl.fastly.net%2Fbj2%2F"><sub><img alt="分享" src="http://mat1.gtimg.com/www/images/qq2012/mailIcon.png"></sub></a></td>
+            <td><a href="https://bjs.global.ssl.fastly.net/">https://bjs.global.ssl.fastly.net/</a></td>
+            <td><a href="mailto:?subject=%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5%20%7C%20%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F&body=https%3A%2F%2Fgithub.com%2Fjindouyunco%2Fmirrors%23a%0Ahttps%3A%2F%2Fbjs.global.ssl.fastly.net%2F"><sub><img alt="分享" src="http://mat1.gtimg.com/www/images/qq2012/mailIcon.png"></sub></a></td>
         </tr>
         <tr>
             <td>有待更新</td>
